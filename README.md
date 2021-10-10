@@ -3,8 +3,8 @@ This project focuses on analysing BTC Market Cycles. Data is provided, find more
 
 Data - btc.csv <br/>
 Analysis - analysis.ipynb <br/>
-Medium Article - https://medium.com/@s1mplev99/analysing-the-onset-of-crypto-market-cycles-fe96438636f7 <br/>
-Follow me on Twitter @s1mplev99 <br/>
+[Medium Article - Analysing the Onset of Crypto Market Cycles](https://medium.com/@s1mplev99/analysing-the-onset-of-crypto-market-cycles-fe96438636f7) <br/>
+Follow me on Twitter [@s1mplev99](https://twitter.com/s1mplev99) <br/>
 
 Sample Graphs:
 
