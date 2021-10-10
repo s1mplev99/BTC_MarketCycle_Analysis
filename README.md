@@ -8,6 +8,6 @@ Follow me on Twitter @s1mplev99 <br/>
 
 Sample Graphs:
 
-![alt text](https://github.com/[s1mplev99]/[BTC_MarketCycle_Analysis]/blob/[main]/img/graph1.png?raw=true)
+![alt text](https://github.com/s1mplev99/BTC_MarketCycle_Analysis/blob/main/img/graph1.png?raw=true)
 <br/>
-![alt text](https://github.com/[s1mplev99]/[BTC_MarketCycle_Analysis]/blob/[main]/img/graph2.png?raw=true)
+![alt text](https://github.com/s1mplev99/[BTC_MarketCycle_Analysis/blob/main/img/graph2.png?raw=true)
